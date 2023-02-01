@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "10q08E8wDNERY3LcFnp2k/e0aFMgZZHfH+65Uq5VhcTULTmB5ZAuJY4QbqABFAl/ftkjMsWBt8gaWTf7iQeS1w==",
+  "success": true,
+  "projectFilePath": "D:\\Sanskar\\Projects\\RagatNepalCLI\\RagatNepalCLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
